@@ -1,0 +1,26 @@
+.bloco{
+    width: 100px;
+    height: 100px;
+    border: dashed rebeccapurple 2px;
+    overflow: hidden;
+    display: inline;
+    display: inline-block;
+}
+#container{
+    border: black 1px;
+    width: 80%;
+    margin: 20px;
+    margin: 0px auto;
+}
+.azul{
+background-color: blue;
+}
+.vermelho{
+    background-color: red;
+}
+.amarelo{
+    background-color: yellow;
+}
+.verde{
+    background-color: green;
+}
